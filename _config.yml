@@ -37,24 +37,31 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/logo1.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  social:
+    email:    eucarpia.biometrics19@gmail.com
+    rss:      https://www.eucarpia.eu/ # make sure you provide an absolute URL
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
+favicon: /assets/img/logo1.jpg
+apple_touch_icon: /assets/img/logo1.jpg
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Home
     url:               /example/
-  - title:             Documentation
+  - title:             Registration
     url:               /docs/
-  - title:             About
+  - title:             Invited speakers
     url:               /about/
+  - title:             Information for attendees
+    url:               /example/
+  - title:             Workshop
+    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -67,7 +74,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024. All rights reserved.
+copyright:             © 2025. Page made by EUCARPIA2025 Biometrics Plant Breeding committee.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -94,13 +101,13 @@ remote_theme: hydecorp/hydejack@v9.2.1
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(0,177,186)
+accent_image:          /assets/img/sidebar-bg2.jpg
+accent_color:          rgb(51,137,119)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(186,91,163)
 
 # IMPORTANT:
 # As of Hydejack 9.2, Google Fonts are turned off by default due to a stronger focus on privacy.
@@ -191,7 +198,7 @@ hydejack:
   project_addons:      [about, newsletter, other, comments]
 
   # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external:    false
+  no_mark_external:    assets/img/logo1.jpg
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false
@@ -406,18 +413,18 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/sidebar-bg1.jpg
     posts:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/sidebar-bg1.jpg
     projects:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/sidebar-bg1.jpg
