@@ -1,7 +1,7 @@
----
+
 layout: blog
 title: Blog
----
+
 ![logo](./assets/img/logo2.jpg)
 ## 2025 Organisation Committee
 ## Financial support 
