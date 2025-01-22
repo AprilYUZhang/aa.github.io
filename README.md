@@ -1,6 +1,7 @@
-
-layout: blog
-title: Blog
+---
+layout: list
+title: 
+---
 
 ![logo](./assets/img/logo2.jpg)
 ## 2025 Organisation Committee
