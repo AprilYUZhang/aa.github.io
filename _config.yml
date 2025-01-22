@@ -52,15 +52,18 @@ favicon: /assets/img/logo1.jpg
 apple_touch_icon: /assets/img/logo1.jpg
 # Add links to the sidebar.
 menu:
-  - title:             Home
-    url:               /example/
+
   - title:             Registration
     url:               /docs/
+  - title:             Program
+    url:               /example/
   - title:             Invited speakers
     url:               /about/
   - title:             Information for attendees
     url:               /example/
-  - title:             Workshop
+  - title:             satellite workshop
+    url:               /docs/
+  - title:             sponsors
     url:               /docs/
 
 # Add links to the footer.
