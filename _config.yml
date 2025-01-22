@@ -54,17 +54,17 @@ apple_touch_icon: /assets/img/logo1.jpg
 menu:
 
   - title:             Registration
-    url:               ./registration.md
+    url:               /registration/
   - title:             Program
-    url:               ./program.md
+    url:               /program/
   - title:             Invited speakers
-    url:               ./Invited_speakers.md
+    url:               /Invited_speakers/
   - title:             Information for attendees
-    url:               ./Information_for_attendees.md
+    url:               /Information_for_attendees/
   - title:             Satellite workshop
-    url:               ./satellite_workshop.md
+    url:               /satellite_workshop/
   - title:             Sponsors
-    url:               ./sponsors.md
+    url:               /sponsors/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

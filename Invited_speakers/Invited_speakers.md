@@ -4,4 +4,4 @@
 content 
 
 # video
-<video src='./assets/img/DJI_20241109202402_0112_D.MP4' width=180/>
+<video src='./assets/img/0122.mp4' width=180/>
