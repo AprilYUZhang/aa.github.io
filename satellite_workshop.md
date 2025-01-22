@@ -1,5 +1,6 @@
-![logo](./assets/img/logo2.jpg)
+![logo](./assets/img/sidebar-bg1.jpg)
 
+# About
 # 2025 Organisation Committee
 # Financial support 
 We are very grateful to our sponsors for financially supporting the meeting.
