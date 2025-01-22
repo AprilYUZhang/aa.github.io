@@ -1,4 +1,3 @@
-![logo](./assets/img/sidebar-bg1.jpg)
 
 # speaker name 
 content 
