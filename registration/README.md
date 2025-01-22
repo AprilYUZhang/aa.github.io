@@ -1,4 +1,3 @@
-![logo](./assets/img/sidebar-bg1.jpg)
 
 # About
 # 2025 Organisation Committee

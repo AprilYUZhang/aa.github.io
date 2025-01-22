@@ -3,4 +3,4 @@
 content 
 
 # video
-[video](aa_test/record.html)
+[video](../record.html)
